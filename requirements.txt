@@ -9,5 +9,4 @@ youtube-transcript-api
 deep_translator
 langdetect
 pyPDF
-dotenv
 #FAISS
