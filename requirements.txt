@@ -1,0 +1,13 @@
+--find-links https://download.pytorch.org/whl/torch_stable.html torch==1.2.0+cpu
+langchain
+chromadb
+transformers
+sentence-transformers
+InstructorEmbedding
+streamlit
+youtube-transcript-api
+deep_translator
+langdetect
+pyPDF
+dotenv
+#FAISS
